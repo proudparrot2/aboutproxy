@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@tomphttp/bare-server-node": "^1.0.2-beta-readme2",
-    "bare-server-node": "github:tomphttp/bare-server-node",
+    "@proudparrot2/uv": "^2.0.0",
     "chrome-tabs": "^5.4.0",
     "draggabilly": "^3.0.0",
     "node-static": "^0.7.11"
